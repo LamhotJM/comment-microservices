@@ -53,4 +53,5 @@ env\Scripts\activate.bat
 
 ## Migration
 >python manage.py makemigrations commentengine --name of app
+>python manage.py migrate commentengine --name of app
 
