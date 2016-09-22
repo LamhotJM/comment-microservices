@@ -51,3 +51,6 @@ curl -X DELETE http://127.0.0.1:8000/master/users/1/
 env\Scripts\activate.bat
 ```
 
+## Migration
+>python manage.py makemigrations commentengine --name of app
+
